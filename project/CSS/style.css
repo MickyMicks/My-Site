@@ -1,0 +1,110 @@
+
+body{
+  margin:0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  color:#3D3F40;
+  width: 100%;
+}
+div {
+  overflow-x: hidden;
+}
+h1 {
+  font-family: 'Catamaran', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Sacramento', cursive;
+  color: #407356;
+  text-shadow: 2px 2px 4px;
+  font-size: 85px;
+  font-weight: normal;
+
+
+}
+
+h2{
+  color: #448971;
+  font-size: 55px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
+
+.subheading{
+  font-size: 35px;
+  position: relative;
+  bottom:20px;
+  color: #448971  ;
+}
+
+.top-container{
+  background-color: #EEECFC;
+}
+
+.middle-container{
+  background-color: #F9F9F9;
+}
+
+.bottom-container{
+  background-color: #F9F9F9;
+
+}
+
+.top-cloud{
+  padding-top: 20px;
+  position: relative;
+  left: 200px;
+  top: 30px;
+}
+
+.bottom-cloud{
+  position: relative;
+  left: 120px;
+  bottom: 310px;
+
+}
+
+.me{
+  margin-top: 30px;
+  border-radius: 20%;
+}
+
+
+
+.computer{
+ position: relative;
+ right: 830px;
+ bottom:500px;
+}
+
+.skill-list{
+  text-align: left;
+  position: relative;
+  left:700px;
+}
+
+.coding-needs{
+  position:relative;
+  top:140px;
+  right:10px;
+  font-weight: lighter;
+  font-family: 'Catamaran', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Sacramento', cursive;
+  font-size: 45px;
+  color: #448971;
+
+}
+#btn {
+  border: none;
+  color: white;
+  background-color:#448971;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+}
+
+.design{
+  color: #448971;
+}
